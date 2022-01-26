@@ -9,10 +9,10 @@ TODO 逐步补充，架构图.jpg、实践说明.md
 ## Infrastructure Components eg: 
 
 ### Cluster
-- KebeVela(OAM https://github.com/oam-dev/kubevela)
+- <img alt="KebeVela" src="https://kubevela.net/img/logo.svg" width="24" align="center" />KebeVela(OAM https://github.com/oam-dev/kubevela)
   - Terraform(https://www.terraform.io) IaC: Infrastructure as Code
-  - CUE(https://cuelang.org)
-- OCM(https://github.com/open-cluster-management-io/OCM https://open-cluster-management.io)
+  - <img alt="Configure Unify Execute" src="https://cuelang.org/images/cue.svg" width="20" align="center" /> CUE(https://cuelang.org)
+- <img alt="Open Cluster Management" src="https://open-cluster-management.io/ocm.svg" width="24" align="center" />Open Cluster Management(https://github.com/open-cluster-management-io/OCM https://open-cluster-management.io)
 
 ### Cloud
 - Alibaba Cloud
@@ -24,18 +24,18 @@ TODO 逐步补充，架构图.jpg、实践说明.md
 - Envoy(https://github.com/envoyproxy/envoy)
   - WebAssembly(https://github.com/WebAssembly/WASI)
 
-- Kubernetes(https://github.com/kubernetes/kubernetes)
-  - OpenKruise(https://github.com/openkruise/kruise)
+- <img alt="Kubernetes" src="https://kubernetes.io/images/wheel.svg" width="22" align="center" /> Kubernetes(https://github.com/kubernetes/kubernetes)
+  - <img alt="OpenKruise" src="https://cdn.jsdelivr.net/gh/openkruise/openkruise.io@gh-pages/img/openkruise.ico" width="22" align="center" /> OpenKruise(https://github.com/openkruise/kruise)
 - Containerd(https://github.com/containerd/containerd)
 
 ### Observability(Metrixs Tracing Logging)
-- OpenTelemetry(https://opentelemetry.io)
+- <img alt="OpenTelemetry" src="https://opentelemetry.io/img/logos/opentelemetry-horizontal-color.svg" width="56" align="center" /> OpenTelemetry(https://opentelemetry.io)
 - Prometheus(https://prometheus.io)
 - Grafana(https://grafana.com)
 - Kibana(https://www.elastic.co/cn/elastic-stack)
 - ElasticSearch(https://www.elastic.co/cn/elasticsearch)
   - fluentd(https://github.com/fluent/fluentd)
-- SkyWalking(https://github.com/apache/skywalking)
+- <img alt="SkyWalking" src="https://skywalking.apache.org/images/logo.svg" width="56" align="center" /> SkyWalking(https://github.com/apache/skywalking)
 
 ### High Avaliable
 - ChaosBlade(https://github.com/chaosblade-io/chaosblade)
