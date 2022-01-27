@@ -1,10 +1,10 @@
-# one-person-company
+# One Person Company
 一人公司：只需要一个人就有可能运维一家公司，组合 Cloud Native 并完整设计技术架构（CNCF + Alibaba）。
 
 - CNCF landscape(https://github.com/cncf/landscape https://landscape.cncf.io)
 - Alibaba Open Source(https://github.com/Alibaba)
 
-TODO 逐步补充，架构图.jpg、实践说明.md
+或能提供一个踏上开源社区、持续学习的方向。TODO 逐步补充，架构图.jpg、实践说明.md
 
 ## Infrastructure Components eg: 
 
@@ -15,8 +15,8 @@ TODO 逐步补充，架构图.jpg、实践说明.md
 - <img alt="Open Cluster Management" src="https://open-cluster-management.io/ocm.svg" width="24" align="center" />Open Cluster Management(https://github.com/open-cluster-management-io/OCM https://open-cluster-management.io)
 
 ### Cloud
-- Alibaba Cloud
-- Tecent Cloud
+- <img alt="Aliyun" src="https://img.alicdn.com/tfs/TB13DzOjXP7gK0jSZFjXXc5aXXa-212-48.png" width="52" /> Alibaba Cloud
+- <img alt="Tecent Cloud" src="https://cloudcache.tencentcs.com/qcloud/portal/kit/images/slice/logo.23996906.svg" width="52" /> Tecent Cloud
 - Private Cloud
 
 ### Cloud Native Container
@@ -54,3 +54,8 @@ TODO 逐步补充，架构图.jpg、实践说明.md
 
 ## Operating System
 - OpenAnolis(https://openanolis.cn)
+
+
+## Infrastructure Components Show
+- TODO v1
+<object data="arch/one-person-company-infrastructure-v1.pdf" type="application/pdf"><embed src="arch/one-person-company-infrastructure-v1.pdf" ></embed></object>
