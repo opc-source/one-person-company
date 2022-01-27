@@ -56,6 +56,6 @@
 - OpenAnolis(https://openanolis.cn)
 
 
-## Infrastructure Components Show
-- TODO v1
-<object data="arch/one-person-company-infrastructure-v1.pdf" type="application/pdf"><embed src="arch/one-person-company-infrastructure-v1.pdf" ></embed></object>
+## Infrastructure Components Picture
+- v1
+<img alt="Infrastructure Components Pic" src="arch/one-person-company-infrastructure-v1_x256.jpg"/>
