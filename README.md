@@ -62,5 +62,5 @@
 
 
 ## Infrastructure Components Picture
-:v2
-<img alt="Infrastructure Components Pic" src="arch/one-person-company-infrastructure-v2_x96.jpg"/>
+:v2.1
+<img alt="Infrastructure Components Pic" src="arch/one-person-company-infrastructure-v2.1_x96.jpg"/>
