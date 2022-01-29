@@ -44,7 +44,7 @@
 
 ### High Avaliable
 - <img alt="ChaosBlade" src="https://chaosblade.io/zh/img/cb-head.png" width="28" align="center" /> ChaosBlade(https://github.com/chaosblade-io/chaosblade)
-- 全链路压测
+- Takin(https://github.com/shulieTech/Takin) Performance test for full-links.
 - <img alt="AppActive" src="https://appactive.oss-cn-beijing.aliyuncs.com/images/appactive-logo.jpg?x-oss-process=style/h400" width="22" align="center" /> AppActive(https://github.com/alibaba/Appactive)
 
 ### Application
