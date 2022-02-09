@@ -4,7 +4,7 @@
 - CNCF landscape(https://github.com/cncf/landscape https://landscape.cncf.io)
 - Alibaba Open Source(https://github.com/Alibaba)
 
-或能提供一个踏上开源社区、持续学习的方向。TODO 逐步补充，架构图.jpg、实践说明.md
+或能提供一个踏上开源社区、持续学习的方向。TODO 逐步补充：架构图.jpg、实践说明.md
 
 ## Infrastructure Components eg: 
 
@@ -33,7 +33,7 @@
   - <img alt="etcd" src="https://etcd.io/etcd-horizontal-white.png" width="44" align="center" /> etcd(https://etcd.io)
 - Containerd(https://github.com/containerd/containerd)
 
-### Observability(Metrixs Tracing Logging)
+### Observability(Metrics Tracing Logging)
 - <img alt="OpenTelemetry" src="https://grafana.com/static/img/menu/opentelemetry.svg" width="20" align="center" /> OpenTelemetry(https://opentelemetry.io)
 - <img alt="Prometheus" src="https://grafana.com/static/img/menu/prometheus.svg" width="18" align="center" /> Prometheus(https://prometheus.io)
 - <img alt="Grafana" src="https://grafana.com/static/img/menu/grafana2.svg" width="18" align="center" /> Grafana(https://grafana.com)
