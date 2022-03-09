@@ -71,7 +71,7 @@
 - 多云(集群)的发布部署由 KubeVela 负责，仅 CD 不详述 CI；
 - OCM 联通多云的 Kubernetes 集群，无论是阿里云、华为云、腾讯云、私有云等，被管理端的 Klusterlet 主动链接中控 OCM Hub，后可以双工通讯。
 - 云(集群)交付由 Sealer 集群镜像技术支持，第一样例是[阿里云 ACK Distro 发行版](https://github.com/AliyunContainerService/ackdistro)；
-- 每个 Kubernetes 集群都增强，OpenKurise, Istio 等 CRD+Operator。
+- 每个 Kubernetes 集群都增强，OpenKruise, Istio 等 CRD+Operator。
 - 集群/容器高可用： ChaosBlade 混沌工程持续的真实演练
 - 应用高可用：AppActive 单元化容灾能力 + 全量路压测-生产性能测试/功能测试。
 - Application 部分还能更详尽地细化，应用的代码结构仅以 COLA 为 Java 例子说明。
