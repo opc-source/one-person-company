@@ -1,5 +1,8 @@
 # One Person Company
-一人公司：一个人就有可能运维一家公司，组合 Cloud Native 并完整设计技术架构（CNCF + Alibaba）；抓大放小、自顶而下、面向终态。
+
+![license](https://img.shields.io/badge/license-Apache--2.0-green.svg)
+
+一人公司：一个人就有可能运维一家公司。组合 Cloud Native 并完整设计技术架构（CNCF + Alibaba）；抓大放小、自顶而下、面向终态。
 
 - CNCF landscape(https://github.com/cncf/landscape https://landscape.cncf.io)
 - Alibaba Open Source(https://github.com/Alibaba)
